@@ -1,11 +1,16 @@
 {
   "type": "LinearLayout",
+  "layout_width": "match_parent",
+  "layout_height": "wrap_content",
   "orientation": "vertical",
   "padding": "16dp",
-  "children": [{
-    "layout_width": "200dp",
-    "gravity": "center",
-    "type": "LinearLayout",
-    "background": "#efefef",
-  }]
+  "background": "#ffffff",
+  "children": [
+    {
+      "type": "TextView",
+      "text": "Hello World !!",
+      "textColor": "#000000",
+      "textSize": "12sp"
+    }
+  ]
 }
