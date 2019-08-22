@@ -8,9 +8,10 @@
   "children": [
     {
       "type": "TextView",
-      "text": "Hello World !!",
+      "gravity": "center",
+      "text": "Hello Michael !!",
       "textColor": "#000000",
-      "textSize": "12sp"
+      "textSize": "18sp"
     }
   ]
 }
