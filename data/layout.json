@@ -1,16 +1,7 @@
 {
-  "type": "ScrollView",
+  "type": "LinearLayout",
   "layout_width": "match_parent",
   "layout_height": "match_parent",
-  "scrollbars": "none",
-  "background": "#000000",
-  "children": [
-    {
-      "type": "LinearLayout",
-      "layout_width": "match_parent",
-      "layout_height": "match_parent",
-      "orientation": "vertical",
-      "background": "#efefef"
-    }
-  ]
+  "orientation": "vertical",
+  "background": "#ccc000"
 }
