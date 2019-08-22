@@ -3,6 +3,7 @@
   "layout_width": "match_parent",
   "layout_height": "match_parent",
   "scrollbars": "none",
+  "background": "#000000",
   "children": [
     {
       "type": "LinearLayout",
