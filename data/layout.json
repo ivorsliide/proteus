@@ -5,7 +5,7 @@
   "children": [{
     "layout_width": "200dp",
     "gravity": "center",
-    "type": "TextView",
-    "text": "Hello world!"
+    "type": "LinearLayout",
+    "background": "#efefef",
   }]
 }
